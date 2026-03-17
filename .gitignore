@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Keep models as they are small in this toy example
+# pretrained_model.pt
+# finetuned_model.pt
